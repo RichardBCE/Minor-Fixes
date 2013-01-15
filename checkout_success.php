@@ -15,7 +15,7 @@ define('NAVBAR_TITLE_2', 'Success');
 
 define('HEADING_TITLE', 'Your Order Data Has Been Received! You Must Click Continue To Complete The Order.');
 
-define('TEXT_SUCCESS', 'Your order has been successfully trasnmitted!');
+define('TEXT_SUCCESS', 'Your order has been successfully transmitted!');
 define('TEXT_NOTIFY_PRODUCTS', 'Please notify me of updates to the products I have selected below:');
 define('TEXT_SEE_ORDERS', 'You can view your order history by going to the <a href="' . tep_href_link(FILENAME_ACCOUNT, '', 'SSL') . '">\'My Account\'</a> page and by clicking on <a href="' . tep_href_link(FILENAME_ACCOUNT_HISTORY, '', 'SSL') . '">\'History\'</a>.');
 define('TEXT_CONTACT_STORE_OWNER', 'Please direct any questions you have to the <a href="' . tep_href_link(FILENAME_CONTACT_US) . '">store owner</a>.');
